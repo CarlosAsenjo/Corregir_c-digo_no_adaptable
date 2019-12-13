@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+article {
+    float: left;
+    background-color: blue;
+    padding: 1em;
+    width: 70%;
+}
+
+aside {
+    background-color: red;
+    padding: 1em;
+    font-size: 8px;
+}
