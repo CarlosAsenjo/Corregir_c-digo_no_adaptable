@@ -19,11 +19,11 @@ br {
     background-image: url(img/content-is-like-water.jpg);
 }
 .div1 {
-
+    background-size: contain;
 }
 .div2 {
-
+    background-size: cover;
 }
 .div3 {
-
+    background-size: auto;
 }
